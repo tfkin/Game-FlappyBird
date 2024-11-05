@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/fallSound.wav</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/gameSong.mp3</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/jumpSound.wav</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/menuSong.mp3</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/scoreSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/scoreSound.wav</SourceFile>
+  <SourceTime>2023-12-09T23:40:11.1411298-05:00</SourceTime>
+  <DestFile>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/bin/Windows/AddAudio/scoreSound.xnb</DestFile>
+  <DestTime>2023-12-12T13:21:59.6913015-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

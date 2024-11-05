@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/0.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/1.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/2.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/3.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/4.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/5.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/6.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/7.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/8.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/9.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/background-day.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/background-night.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/base.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/bg-end.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/bluebird-downflap.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/bluebird-midflap.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/bluebird-upflap.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnAbout.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnBigTheme.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnExit.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnHelp.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnMenu.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnMenuSmaller.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnPlayAgain.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnRankingLogo.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnRankings.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnStart.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/btnThemes.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/creatorKin.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/creatorMateo.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/creators.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/flappybird-logo.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/gameover.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/listRanking.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/medal-bronze.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/medal-gold.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/medal-platinum.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/medal-silver.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/message.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/picKin.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/picMateo.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/pipe-green.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/pipe-red.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/redbird-downflap.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/redbird-midflap.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/redbird-upflap.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/themeBirds.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/themeInk.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/yellowbird-downflap.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/yellowbird-midflap.png</File>
+    <File>C:/! PERSONAL FILES/AA CONESTOGA COLLEGE/FALL TERM/Game Programming/Finals Game/KFMAFinal/G7FlappyBird/G7FlappyBird/Content/yellowbird-upflap.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
